@@ -45,7 +45,7 @@ const originFarms = [
   }
 ]
 
-PROJECT_SLUG = 'dexfinance-arbitrum';
+PROJECT_SLUG = 'dexfinance';
 
 async function getDexSwapPrices() {
   const lpInfo = [];
